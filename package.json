@@ -1,5 +1,5 @@
 {
-  "name": "@lied2zero/pumpdotfun-sdk",
+  "name": "pumpfun-sdk-v1",
   "version": "1.5.3",
   "description": "Pump SDK",
   "type": "module",
