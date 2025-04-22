@@ -1,6 +1,6 @@
 {
-  "name": "pumpdotfun-sdk",
-  "version": "1.5.2",
+  "name": "@lied2zero/pumpdotfun-sdk",
+  "version": "1.5.3",
   "description": "A simple SDK for interacting with pumpdotfun",
   "type": "module",
   "module": "./dist/esm/index.mjs",
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rckprtr/pumpdotfun-sdk.git"
+    "url": "https://github.com/lied2zero/pumpdotfun-sdk.git"
   },
   "keywords": [
     "pumpdotfun",
