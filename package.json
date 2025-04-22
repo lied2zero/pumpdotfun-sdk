@@ -1,7 +1,7 @@
 {
   "name": "@lied2zero/pumpdotfun-sdk",
   "version": "1.5.3",
-  "description": "A simple SDK for interacting with pumpdotfun",
+  "description": "Pump SDK",
   "type": "module",
   "module": "./dist/esm/index.mjs",
   "main": "./dist/cjs/index.cjs",
